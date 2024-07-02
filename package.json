@@ -1,0 +1,15 @@
+{
+  "name": "korean-dict-nikl-krdict",
+  "version": "1.0.0",
+  "description": "국립국어원 표준국어대사전 사이트에서 (https://krdict.korean.go.kr) 다운로드할 수 있는 사전 데이터입니다.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "xml2js": "^0.6.2"
+  }
+}
